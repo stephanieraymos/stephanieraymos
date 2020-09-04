@@ -1,4 +1,4 @@
 ![GitHub Logo](images/githubLogo.png)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<stephanieraymos>" />
+![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=stephanieraymos&show_icons=true&theme=radical)
