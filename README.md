@@ -1,5 +1,5 @@
 ![GitHub Logo](images/githubLogo.png)
-[![Header](https://raw.githubusercontent.com/stephanieraymos/stephanieraymos/master/readme_githubLogo.png "Header")](https://stephanieraymos.com/)
+[![Header](https://raw.githubusercontent.com/stephanieraymos/stephanieraymos/master/images/githubLogo.png "Header")](https://stephanieraymos.com/)
 
 
 
