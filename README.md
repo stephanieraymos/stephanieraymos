@@ -1,4 +1,6 @@
 ![GitHub Logo](images/githubLogo.png)
+[![Header](https://raw.githubusercontent.com/stephanieraymos/stephanieraymos/master/readme_githubLogo.png "Header")](https://stephanieraymos.com/)
+
 
 
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
