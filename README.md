@@ -28,7 +28,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- icons without padding -->
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://www.google.com/search?q=linkedin+icon&tbm=isch&ved=2ahUKEwjK8LO6vtDrAhVV_KwKHUPMDjQQ2-cCegQIABAA&oq=linkedin+icon&gs_lcp=CgNpbWcQAzICCAAyAggAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHlCOpAJYkK8CYOWvAmgAcAB4AIABjwKIAZgPkgEDMi04mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=bLdSX8qKBdX4swXDmLugAw&bih=888&biw=1920#imgrc=JdyXos__tp7KHM.png (LinkedIn icon without padding)
+[3.2]: images/linkedin.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
