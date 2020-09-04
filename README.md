@@ -6,7 +6,7 @@
 
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Stephanie Raymos and I'm a full stack web developer. I'm from California, living in Sacramento and currently working at Amazon. You can find me on[![LinkedIn](/images/linkedin.png)][3].
+My name is Stephanie Raymos and I'm a full stack web developer. I'm from California, living in Sacramento and currently working at Amazon. You can find me on [LinkedIn](https://www.linkedin.com/in/stephanieraymos/).
 
 ## &#x270d; Blog & Writing
 
