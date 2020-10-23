@@ -8,7 +8,7 @@ My name is Stephanie Raymos and I'm a full stack web developer. I'm from Califor
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Mommin101](https://mommin101.com/).
+Apart from coding, I also maintain a blog - you can find my articles about parenting on my website at [Mommin101](https://mommin101.com/).
 
 
 ## &#x1f4c8; GitHub Stats
