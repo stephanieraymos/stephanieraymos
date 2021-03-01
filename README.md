@@ -4,7 +4,7 @@
 
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Stephanie Raymos and I'm a full stack web developer. I'm from California, living in Sacramento and currently working as a marketer and advertiser. <a href="https://stephanieraymos.com/" target="_blank">Here</a> is my portfolio. You can also find me on [LinkedIn](https://www.linkedin.com/in/stephanieraymos/).
+My name is Stephanie Raymos and I'm a Full Stack Web Developer. I'm from California, living in Sacramento and currently working as a Software Engineer at RL Liquidators. <a href="https://stephanieraymos.com/" target="_blank">Here</a> is my portfolio. You can also find me on [LinkedIn](https://www.linkedin.com/in/stephanieraymos/).
 
 ## &#x270d; Blog & Writing
 
