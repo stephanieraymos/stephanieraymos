@@ -13,7 +13,7 @@ Apart from coding, I also maintain a blog - you can find my articles about paren
 
 <a href="https://github.com/stephanieraymos/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieraymos&hide=pug&title_color=ffffff&include_all_commits=true&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21" />
- </a>
+</a>
 <a href="https://github.com/stephanieraymos/"  target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanieraymos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="Stephanie's GitHub Stats" />
 </a>
