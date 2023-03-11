@@ -2,7 +2,7 @@
 
 # Hello, everyone!
 
-My name is Stephanie Raymos and I'm a Full Stack Web Developer. I'm from California, living in Citrus Heights and currently working as a Software Engineer at Pixar, and as an Instructor at Nucamp Coding Bootcamp. <a href="https://stephanieraymos.com/" target="_blank">Here</a> is my portfolio. You can also find me on [LinkedIn](https://www.linkedin.com/in/stephanieraymos/).
+My name is Stephanie Raymos and I'm a software engineer from California. I currently work on the Production Software team at Pixar, and as an Instructor at Nucamp Coding Bootcamp. <a href="https://stephanieraymos.com/" target="_blank">Here</a> is my portfolio. You can also find me on [LinkedIn](https://www.linkedin.com/in/stephanieraymos/).
 
 ## &#x270d; Blog & Writing
 
